@@ -1,0 +1,17 @@
+[
+    {
+        "firstNum" : 50,
+        "secondNum": 30,
+        "operator": "-"
+    },
+    {
+        "firstNum" : 20,
+        "secondNum": 4,
+        "operator": "*"
+    },
+    {
+        "firstNum" : 15,
+        "secondNum": 3,
+        "operator": "*"
+    }
+]
