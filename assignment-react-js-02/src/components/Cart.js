@@ -11,6 +11,7 @@ function Cart({products, itemNum}) {
         cartItems.splice(index, 1);
         setCartItems([...cartItems]);
     }
+
   return (
     <div>
         {cartItems.length < 1 ? (
